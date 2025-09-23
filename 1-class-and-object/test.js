@@ -1,4 +1,4 @@
-const { Person } = require("./person-class")
+const { Person } = require("./person")
 
 let person = new Person("John Doe", 30, 75, 1.8);
 person.print();
